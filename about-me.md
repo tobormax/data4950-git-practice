@@ -7,4 +7,3 @@
 ## Skills
 - Python
 - C++
-4. Save. Go back to GitHub
